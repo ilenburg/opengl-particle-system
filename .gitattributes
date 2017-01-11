@@ -1,2 +1,4 @@
-glew-1.10.0/doc/* linguist-documentation
-glm/doc/api/* linguist-documentation
+glew-1.10.0/* linguist-vendored
+glm/* linguist-vendored
+SDL2-2.0.3/* linguist-vendored
+SOIL/* linguist-vendored
