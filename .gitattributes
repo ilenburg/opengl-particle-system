@@ -1,2 +1,2 @@
 glew-1.10.0/doc/* linguist-documentation
-glm/doc/*
+glm/doc/api/* linguist-documentation
